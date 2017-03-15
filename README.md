@@ -13,7 +13,7 @@ Here are my lists of learning resources in various subjects
 
 ### Linear Algebra
 
-1. Gilbert Strang's Book [Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/)
+1. Gilbert Strang's Book [Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/) and Its course on [MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 2. Other book from Strang, but more focused on applications [Linear Algebra and Its Applications](https://www.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/)
 
 
