@@ -1,6 +1,11 @@
 # Learning list
 Here are my lists of learning resources in various subjects
 
+### Dev Basics / Toolbox
+
+1. Linux Command Line Basics, from [Udacity](https://br.udacity.com/course/linux-command-line-basics--ud595/) and [Linux Journey](https://linuxjourney.com/)
+2. Git and GitHub course from [Udacity](https://br.udacity.com/course/how-to-use-git-and-github--ud775/)
+
 ### Probability
 
 1. Harvard's [Statistics 110 Course](http://projects.iq.harvard.edu/stat110/home) with its [book](https://www.amazon.com/gp/product/1466575573/)
