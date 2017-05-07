@@ -7,6 +7,10 @@ Here are my lists of learning resources in various subjects
 2. [Linux Journey](https://linuxjourney.com/)
 3. Git and GitHub course from [Udacity](https://br.udacity.com/course/how-to-use-git-and-github--ud775/)
 
+### R Programming
+
+1. [R in Action](https://www.amazon.com.br/Action-Data-Analysis-Graphics/dp/1617291382/)
+
 ### Probability
 
 1. Harvard's [Statistics 110 Course](http://projects.iq.harvard.edu/stat110/home) with its [book](https://www.amazon.com/gp/product/1466575573/)
