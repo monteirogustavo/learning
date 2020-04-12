@@ -31,4 +31,5 @@ Here are my lists of learning resources in various subjects
 
 1. Famous Wooldridge textboox (also used in my undergraduate course) [Introductory Econometrics](https://www.amazon.com/Introductory-Econometrics-Modern-Approach-Economics/dp/130527010X/)
 2. [A Guide to Econometrics - Peter Kennedy](https://www.amazon.com/Guide-Econometrics-6th-Peter-Kennedy/dp/1405182571/)
+3. [Mostly Harmless Econometrics](https://www.amazon.co.uk/Mostly-Harmless-Econometrics-Empiricists-Companion/dp/0691120358)
 3. [Applied Econometrics with R](https://www.amazon.com/Applied-Econometrics-R-Use-ebook/dp/B00HWUVI70)
